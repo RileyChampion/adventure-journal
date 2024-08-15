@@ -4,8 +4,11 @@ D&amp;D notes for DMs and Party members all in one place
 ## Description
 
 ## Tech Stack
-**Client/Server:**
+**Client:**
 - NextJS, TailwindCSS
+
+**Server:**
+- NextJS (need to reconsider in case of scaling concerns)
 
 **DB:**
 - Supabase
